@@ -1,6 +1,6 @@
 # 🩸 LifeLine Blood System
 
-![LifeLine Banner](https://your-image-url.com/banner.png) 
+![LifeLine Banner](./public/assets/banner.png) 
 
 > A modern web-based Blood Bank Management System that simplifies blood donation and transfusion by connecting donors, recipients, and hospitals in real time.
 
